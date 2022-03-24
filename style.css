@@ -4,6 +4,10 @@
 
 .banner {
 	text-align: center;
-	font: arial;
-	margin-top: 100px;
+	margin-top: 150px;
+	font-family: arial;
+}
+
+h2 {
+	opacity: 0.5;
 }
